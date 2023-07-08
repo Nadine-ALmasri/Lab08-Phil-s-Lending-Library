@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08-Phil’s-Lending-Library", "Lab08-Phil’s-Lending-Library.csproj", "{1C6B7F6D-45DB-417D-842A-74955B27F28A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C6B7F6D-45DB-417D-842A-74955B27F28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6B7F6D-45DB-417D-842A-74955B27F28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6B7F6D-45DB-417D-842A-74955B27F28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6B7F6D-45DB-417D-842A-74955B27F28A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26B8659-DDC3-458D-B4F4-10E7B6E91489}
+	EndGlobalSection
+EndGlobal
