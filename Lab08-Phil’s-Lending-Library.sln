@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08-Phil’s-Lending-Library", "Lab08-Phil’s-Lending-Library.csproj", "{1C6B7F6D-45DB-417D-842A-74955B27F28A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "..\TestLibrary\TestLibrary.csproj", "{2D860A0E-CEDD-48DA-A0AD-13FF9F74D168}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1C6B7F6D-45DB-417D-842A-74955B27F28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C6B7F6D-45DB-417D-842A-74955B27F28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C6B7F6D-45DB-417D-842A-74955B27F28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D860A0E-CEDD-48DA-A0AD-13FF9F74D168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D860A0E-CEDD-48DA-A0AD-13FF9F74D168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D860A0E-CEDD-48DA-A0AD-13FF9F74D168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D860A0E-CEDD-48DA-A0AD-13FF9F74D168}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
